@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sistema de ventas</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script src="scripts.js"></script>
+    </head>
+    <body>
+        <h1>Consultas</h1>
+
+        <label for="options">Consultar </label>
+        <select id="options" onchange="loadOptions()">
+            <option value="0">Seleccione una opciom...</option>
+            <option value="1">Clientes</option>
+            <option value="2">Productos</option>
+            <option value="3">Ventas</option>
+        </select>
+
+        <label for="opts">Seleccione</label>
+        <select id="opts" onchange="searchOption()"></select>
+
+        <div id="output" style="background: purple; width:400px;margin: 20px">&nbsp;</div>
+    </body>
+</html>

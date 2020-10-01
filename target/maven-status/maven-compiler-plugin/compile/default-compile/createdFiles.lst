@@ -1,0 +1,11 @@
+edu\uptc\pruebaproyectoventa\persistens\CustomerDAO.class
+edu\uptc\pruebaproyectoventa\persistens\SaleDAO.class
+edu\uptc\pruebaproyectoventa\model\Sale.class
+edu\uptc\pruebaproyectoventa\persistens\ProductDAO.class
+edu\uptc\pruebaproyectoventa\JAXRSConfiguration.class
+edu\uptc\pruebaproyectoventa\model\Product.class
+edu\uptc\pruebaproyectoventa\model\Customer.class
+edu\uptc\pruebaproyectoventa\model\Management.class
+edu\uptc\pruebaproyectoventa\persistens\ConnectDB.class
+edu\uptc\pruebaproyectoventa\resources\JavaEE8Resource.class
+servlets\ControlDB.class
